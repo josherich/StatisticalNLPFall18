@@ -1,4 +1,4 @@
-Example: Prodiem Plain guess=drug gold= confidence=0.8859362569858307
+Example: Prodiem Plain guess=drug gold= confidence=0.8859362569858308
 Example: D�-me Luz guess=movie gold= confidence=0.9079264666680488
 Example: Burnside guess=place gold= confidence=0.8413405100785222
 Example: Synthroid guess=drug gold= confidence=0.9678831657388683
